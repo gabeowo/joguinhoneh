@@ -9,11 +9,19 @@ const perguntas = [
         enunciado: "No âmbito social, você prefere:",
         alternativas: [
             {
-                texto: "Ganhar 100 dólares toda vez que te baterem, mas ninguém nem liga para você  ou morrer pobre, mas o mundo é muito pacifico",
+                texto: "Ganhar 100 dólares toda vez que te baterem, mas ninguém nem liga para você",
                 afirmação: "afirmação",
             },
             {
-                texto: "Que toda a espécie humana seja extinta, menos você (e que você não possa se suicidar) ou que você morra, mas a população continue viva",
+                texto: "Que toda a espécie humana seja extinta, menos você (e que você não possa se suicidar)",
+                afirmação: "afirmação",
+            },
+            {
+                texto: "Morrer pobre, mas o mundo é muito pacifico",
+                afirmação: "afirmação",
+            },
+            {
+                texto: "Você morre, mas a população continue viva",
                 afirmação: "afirmação",
             },
         ]
@@ -22,11 +30,19 @@ const perguntas = [
         enunciado: "No âmbito ambiental, você prefere:",
         alternativas: [
             {
-                texto: "Restaurar sua espécie extinta preferida, mas a sua espécie atual preferida acaba ou as cidades se tornam 100% sustentáveis, mas você sente como se estivesse respirando do lado do rio Tietê a cada hora por 20 min",
+                texto: "Restaurar sua espécie extinta preferida, mas a sua espécie atual preferida acaba",
                 afirmação: "afirmação",
             },
             {
-                texto: "Todos os gatinhos amam você, mas todo dia um pombo caga na sua cabeça ou você se torna imune aos pombos, mas todos os gatos te odeiam",
+                texto: "Todos os gatinhos amam você, mas todo dia um pombo caga na sua cabeça",
+                afirmação: "afirmação",
+            },
+            {
+                texto: "As cidades se tornam 100% sustentáveis, mas você sente como se estivesse respirando do lado do rio Tietê a cada hora por 20 min",
+                afirmação: "afirmação",
+            },
+            {
+                texto: "Você se torna imune aos pombos, mas todos os gatos te odeiam",
                 afirmação: "afirmação",
             },
         ]
