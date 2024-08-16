@@ -16,6 +16,10 @@ const perguntas = [
                 texto: "Que toda a espécie humana seja extinta, menos você (e que você não possa se suicidar)",
                 afirmação: "afirmação",
             },
+        ]
+
+            enunciado: "No âmbito social, você prefere:",
+            alternativas: [
             {
                 texto: "Morrer pobre, mas o mundo é muito pacifico",
                 afirmação: "afirmação",
@@ -37,6 +41,9 @@ const perguntas = [
                 texto: "Todos os gatinhos amam você, mas todo dia um pombo caga na sua cabeça",
                 afirmação: "afirmação",
             },
+        ]
+        enunciado: "No âmbito ambiental, você prefere:",
+        alternativas: [
             {
                 texto: "As cidades se tornam 100% sustentáveis, mas você sente como se estivesse respirando do lado do rio Tietê a cada hora por 20 min",
                 afirmação: "afirmação",
@@ -58,6 +65,9 @@ const perguntas = [
                 texto: "Você pode ter qualquer eletrônico de graça, mas você se torna fisicamente igual ao Quasimodo",
                 afirmação: "afirmação",
             },
+        ]
+        enunciado: "No âmbito tecnológico, você prefere:",
+        alternativas: [
             {
                 texto: "Você se torna imune a qualquer virose e bacterioses, mas você perde seu órgão reprodutor (perdeu o pau kk)",
                 afirmação: "afirmação",
