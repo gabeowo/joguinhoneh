@@ -35,11 +35,19 @@ const perguntas = [
         enunciado: "No âmbito tecnológico, você prefere:",
         alternativas: [
             {
-                texto: "Desenvolver a cura para uma doença fodida, mas você contrai dengue hemorrágica ou Você se torna imune a qualquer virose e bacterioses, mas você perde seu órgão reprodutor (perdeu o pau kk)",
+                texto: "Desenvolver a cura para uma doença fodida, mas você contrai dengue hemorrágica",
                 afirmação: "afirmação",
             },
             {
-                texto: "Você pode ter qualquer eletrônico de graça, mas você se torna fisicamente igual ao Quasimodo ou Você tem o corpo dos seus sonhos, mas só pode se comunicar por pombo correio ",
+                texto: "Você pode ter qualquer eletrônico de graça, mas você se torna fisicamente igual ao Quasimodo",
+                afirmação: "afirmação",
+            },
+            {
+                texto: "Você se torna imune a qualquer virose e bacterioses, mas você perde seu órgão reprodutor (perdeu o pau kk)",
+                afirmação: "afirmação",
+            },
+            {
+                texto: "Você tem o corpo dos seus sonhos, mas só pode se comunicar por pombo correio ",
                 afirmação: "afirmação",
             },
         ]
