@@ -6,7 +6,7 @@ const textoResultado = document.querySelector('.texto-resultado');
 
 const perguntas = [
     {
-        enunciado: "No âmbito social, você prefere:",
+        enunciado: "No âmbito social:",
         alternativas: [
             {
                 texto: "Ganhar 100 dólares toda vez que te baterem, mas ninguém nem liga para você",
@@ -19,7 +19,7 @@ const perguntas = [
         ] 
     },
 {
-            enunciado: "No âmbito social, você prefere:",
+            enunciado: "No âmbito social:",
             alternativas: [
             {
                 texto: "Morrer pobre, mas o mundo é muito pacifico",
@@ -32,7 +32,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "No âmbito ambiental, você prefere:",
+        enunciado: "No âmbito ambiental:",
         alternativas: [
             {
                 texto: "Todos os gatinhos amam você, mas todo dia um pombo caga na sua cabeça",
@@ -44,7 +44,7 @@ const perguntas = [
         ]
     },
         {
-        enunciado: "No âmbito ambiental, você prefere:",
+        enunciado: "No âmbito ambiental:",
         alternativas: [
             {
                 texto: "As cidades se tornam 100% sustentáveis, mas você sente como se estivesse respirando do lado do rio Tietê a cada hora por 20 min",
@@ -58,7 +58,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "No âmbito tecnológico, você prefere:",
+        enunciado: "No âmbito tecnológico:",
         alternativas: [
             {
                 texto: "Desenvolver a cura para uma doença fodida, mas você contrai dengue hemorrágica",
@@ -71,7 +71,7 @@ const perguntas = [
         ]
     },
         {
-        enunciado: "No âmbito tecnológico, você prefere:",
+        enunciado: "No âmbito tecnológico:",
         alternativas: [
             {
                 texto: "Você se torna imune a qualquer virose e bacterioses, mas você perde seu órgão reprodutor (perdeu o pau kk)",
