@@ -75,7 +75,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Você se torna imune a qualquer virose e bacterioses, mas você perde seu órgão reprodutor (perdeu o pau kk)",
-                afirmacao: " E vai ser imune a mais doenças, tendo seu orgão sexual coratdo fora.",
+                afirmacao: " E vai ser imune a mais doenças, tendo seu orgão sexual cortado fora.",
             },
             {
                 texto: "Você tem o corpo dos seus sonhos, mas só pode se comunicar por pombo correio ",
