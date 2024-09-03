@@ -36,7 +36,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Todos os gatinhos amam você, mas todo dia um pombo caga na sua cabeça",
-                afirmacao: "ter o amor felino, o mais importate, porém vai ser pinico de pombo; ",
+                afirmacao: "ter o amor felino, o mais importate, sendo pinico de pombo; ",
               },
             {
                 texto: "Você se torna imune aos pombos, mas todos os gatos te odeiam",
@@ -48,7 +48,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "As cidades se tornam 100% sustentáveis, mas você sente como se estivesse respirando do lado do rio Tietê a cada hora por 20 min",
-                afirmacao: "ser o salvador do mundo, mas você vai sentir eternamente o cheiro do tiete kk; ",
+                afirmacao: "ser o salvador do mundo pela sustentabilidade mundial, mas sentindo eternamente o cheiro do tiete kk; ",
             },
             {
                 texto: "Restaurar sua espécie extinta preferida, mas a sua espécie atual preferida acaba",
