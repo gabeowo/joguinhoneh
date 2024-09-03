@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Ganhar 100 dólares toda vez que te baterem, mas ninguém nem liga para você",
-                afirmacao: "Parabéns trouxam, você vai ser ignorado pela eternidade",
+                afirmacao: "Parabéns, você vai: ganhar 100 dolares toda vez que te baterem, porém vai ser ignorado;",
             },
             {
                 texto: "Que toda a espécie humana seja extinta, menos você (e que você não possa se suicidar)",
-                afirmacao: "Uepa! Oh, que lobo solitario vc é kk. Parabens ai, matou a humanidade atoa",
+                afirmacao: "Parabéns, você vai: extinguir toda a espécie humana, menos você; ",
             },
         ] 
     },
@@ -23,11 +23,11 @@ const perguntas = [
             alternativas: [
             {
                 texto: "Morrer pobre, mas o mundo é muito pacifico",
-                afirmacao: "O homem é bom e a sociedade o corrompe, não é mexmo? Parabéns, vai morrer pobre, mas a sociedade vai ser pacifica pelo menos, né?",
+                afirmacao: "Morrer pobre, mas ter uma sociedade pacifica;",
             },
             {
                 texto: "Você morre, mas a população continue viva",
-                afirmacao: "Parabéns, você se sacrificou por uma sociedade hipócrita e suicida :D",
+                afirmacao: "morrer por uma sociedade hipócrita e suicida :D;",
             },
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Todos os gatinhos amam você, mas todo dia um pombo caga na sua cabeça",
-                afirmacao: "Parabéns, o amor felino é mais importate para você que sua higiene e orgulho. Respect ;) ",
+                afirmacao: "ter o amor felino, o mais importate, porém vai ser pinico de pombo; ",
               },
             {
                 texto: "Você se torna imune aos pombos, mas todos os gatos te odeiam",
-                afirmacao: "Parabéns, você não é um banheiro particular para os pombos, mas os felinos vão sempre te detestar. Eu choraria ok?",  },
+                afirmacao: "ser imuni a merda de pombo, mas os felinos vão sempre te detestar; ",  },
         ]
     },
         {
@@ -48,11 +48,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "As cidades se tornam 100% sustentáveis, mas você sente como se estivesse respirando do lado do rio Tietê a cada hora por 20 min",
-                afirmacao: "Parabéns, o mundo pode ter uma salvação por sua causa, mas você vai ser um sofredor eterno. Boa sorte kk",
+                afirmacao: "ser o salvador do mundo, mas você vai sentir eternamente o cheiro do tiete kk; ",
             },
             {
                 texto: "Restaurar sua espécie extinta preferida, mas a sua espécie atual preferida acaba",
-                afirmacao: "Parabens, vc trouxe de volta uma espécie que não coseguirá sobreviver nesse novo ambiente e desestabilizou parte da fauna :)",
+                afirmacao: "trazer de volta uma espécie que não coseguirá sobreviver nesse novo ambiente e desestabilizar parte da fauna :); ",
          
             },
         ]
@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Desenvolver a cura para uma doença fodida, mas você contrai dengue hemorrágica",
-                afirmacao: "Parabéns, você salvou muitas pessoas, mas se fudeu kk. Sinto muito ai",
+                afirmacao: "salvar muitas pessoas com a sua vacina, porém vai ter dengue hemorrágica; ",
             },
             {
                 texto: "Você pode ter qualquer eletrônico de graça, mas você se torna fisicamente igual ao Quasimodo",
-                afirmacao: "Paranbéns por ser um nerd tecnologico com corpo do corcunda de Notre Dame",
+                afirmacao: "ter qualquer eletronico de graça com corpo do corcunda de Notre Dame; ",
             },
         ]
     },
@@ -75,11 +75,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Você se torna imune a qualquer virose e bacterioses, mas você perde seu órgão reprodutor (perdeu o pau kk)",
-                afirmacao: "Parabéns, não fica mais doente com tanta facilidade, mas é castrado",
+                afirmacao: " e vai ser imune a mais doenças, tendo seu orgão sexual coratdo fora.",
             },
             {
                 texto: "Você tem o corpo dos seus sonhos, mas só pode se comunicar por pombo correio ",
-                afirmacao: "Olha só, voltamos ao séc XVI por um corpo bonito :)",
+                afirmacao: " e vai ter o corpo dos seus sonhos tendo que se comunicar por pombo correio.",
             },
         ]
     },
